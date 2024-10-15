@@ -1,4 +1,4 @@
-# Super Bawk Bawk Chiken Mod: Bawk Extreme
+# Super Bawk Bawk Chicken Mod: Bawk Extreme
 ## General Info:
 This mod changes out the hardest difficulty for a much much faster version
 
