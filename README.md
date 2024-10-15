@@ -1,4 +1,5 @@
 # Super Bawk Bawk Chiken Mod: Bawk Extreme
+# THES VERSION DOES NOT YET WORK PLEASE USE MELON LOADER
 ## General Info:
 This mod changes out the hardest difficulty for a much much faster version
 
