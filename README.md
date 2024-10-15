@@ -1,9 +1,9 @@
-### Super Bawk Bawk Chiken Mod: Bawk Extreme
-## General Info:
+# Super Bawk Bawk Chiken Mod: Bawk Extreme
+### General Info:
 This mod changes out the hardest difficulty for a much much faster version
 This mod is for MelonLoader
 
-## Known Issues:
+### Known Issues:
 if a level is not fully reloaded the speed of the level will not be Reset
 
 ### LICENSING & CREDITS:
