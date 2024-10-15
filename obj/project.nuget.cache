@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SeOP3QiklAbu9NIb1L5hx/V5gTh7Lw1ieMZlN5yB9Evt3FZf+jlUn/nNLH4Vmw2DIcw+aipfRkcKDzc3pL6rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boys\\Downloads\\SBBCModTemplate-main\\BawkExtemeBepinEx\\BawkExtremeBepinEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boys\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\boys\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\boys\\.nuget\\packages\\unityengine.modules\\2021.3.33\\unityengine.modules.2021.3.33.nupkg.sha512"
+  ],
+  "logs": []
+}
