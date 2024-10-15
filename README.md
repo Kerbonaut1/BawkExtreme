@@ -1,7 +1,7 @@
 # Super Bawk Bawk Chiken Mod: Bawk Extreme
 ### General Info:
-This mod changes out the hardest difficulty for a much much faster version
-This mod is for MelonLoader Beta 6.5.0 x64
+####This mod changes out the hardest difficulty for a much much faster version
+####This mod is for MelonLoader Beta 6.5.0 x64
 
 ### Known Issues:
 if a level is not fully reloaded the speed of the level will not be Reset
